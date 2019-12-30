@@ -11,7 +11,11 @@
 	</appender>
 	
 	<!-- Application Loggers -->
+<<<<<<< HEAD
 	<logger name="kh.spring.controller">
+=======
+	<logger name="kh.spring.test">
+>>>>>>> fc657f6447508450d9559f834e3585f1446ebf85
 		<level value="info" />
 	</logger>
 	
